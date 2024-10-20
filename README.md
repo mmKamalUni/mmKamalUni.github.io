@@ -1,5 +1,4 @@
-# mmKamalUni.github.io
-Weather Dashboard
+# Weather Dashboard
 Project Overview
 The Weather Dashboard is an advanced web application that provides users with real-time weather updates and forecasts for any location. It integrates the OpenWeather API to display current weather conditions, a 5-day forecast, and detailed metrics. Additionally, the dashboard includes a chatbot powered by the Gemini API for user interaction, offering an engaging user experience.
 
